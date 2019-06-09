@@ -1,7 +1,0 @@
-deepdish
-matplotlib
-nilearn
-pandas
-seaborn
-watchdog
-git+https://github.com/brainiak/brainiak
