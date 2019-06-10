@@ -38,3 +38,6 @@ COPY tutorials tutorials
 RUN set -e
 
 RUN python3 -m pip install -r tutorials/requirements.txt
+
+RUN echo PATH=\"\$HOME/.local/bin:\$PATH\" >> $HOME/.profile \
+&& echo "shell -bash" >> ~/.screenrc
