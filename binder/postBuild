@@ -1,1 +1,1 @@
-sed -i "35 a \ \ $(data_path = "./data/brainiak_datasets")" ~/tutorials/utils.py
+sed -i "35 a \ \ $(data_path = "/home/jovyan/data/brainiak_datasets")" ~/tutorials/utils.py
