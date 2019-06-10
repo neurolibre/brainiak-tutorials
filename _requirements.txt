@@ -1,7 +1,10 @@
 deepdish
+ipython
 matplotlib
+networkx
 nilearn
+notebook
+nxviz
 pandas
 seaborn
 watchdog
-git+https://github.com/brainiak/brainiak
