@@ -1,1 +1,1 @@
-FROM brainiak/tutorials
+FROM brainiak/brainiak:latest
