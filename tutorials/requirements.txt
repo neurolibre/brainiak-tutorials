@@ -1,9 +1,6 @@
 deepdish
-ipython
-matplotlib
 networkx
 nilearn
-notebook
 nxviz
 pandas
 seaborn

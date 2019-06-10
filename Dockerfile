@@ -41,4 +41,4 @@ RUN for example in examples/*/requirements.txt; \
     do python3 -m pip install --user -U -r $example ; done
 WORKDIR /mnt/brainiak
 
-RUN python3 -m pip install --user -U -r tutorials/requirements.txt
+RUN python3 -m pip install -r tutorials/requirements.txt
