@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 FROM ubuntu:16.04
 
 # Group 1 must be synced with README
