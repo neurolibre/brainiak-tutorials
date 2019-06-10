@@ -1,6 +1,0 @@
-matplotlib
-notebook
-sklearn
-deepdish
-scipy
-

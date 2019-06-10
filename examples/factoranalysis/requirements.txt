@@ -1,5 +1,0 @@
-click
-nibabel
-nilearn
-requests
-hypertools
