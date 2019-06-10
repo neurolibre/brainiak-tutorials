@@ -1,3 +1,4 @@
+brainiak
 deepdish
 ipython
 matplotlib
