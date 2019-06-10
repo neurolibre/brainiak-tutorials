@@ -6,7 +6,6 @@ __pycache__
 *.swp
 tutorials/logs/*
 tutorials/__pycache__
-brainiak
 
 # To be excepted
 !tutorials/logs/.gitkeep
