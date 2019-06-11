@@ -1,1 +1,3 @@
-sed '15i data_path = "/home/jovyan/data/brainiak_datasets"' ~/tutorials/utils.py
+set -ex
+
+sed '15i data_path = "/home/jovyan/data/brainiak_datasets"' /home/jovyan/tutorials/utils.py
