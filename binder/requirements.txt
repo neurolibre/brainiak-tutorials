@@ -1,4 +1,4 @@
-brainiak
+git+https://github.com/brainiak/brainiak
 deepdish
 ipython
 matplotlib
