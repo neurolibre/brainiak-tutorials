@@ -1,4 +1,4 @@
-[![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder.conp.cloud/jupyter/user/neurolibre-brainiak-tutorials-m6uives2/tree/tutorials)
+[![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder.conp.cloud/v2/gh/neurolibre/brainiak-tutorials/master?filepath=tutorials)
 
 # Tutorials
 
