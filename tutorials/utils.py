@@ -11,7 +11,7 @@ from copy import deepcopy
 
 # Data path: Where the data for the tutorials is stored.
 # Change this path only if you have saved the data to a different folder.
-data_path = os.path.join(os.path.expanduser('~'), 'brainiak_datasets')
+data_path = os.path.join(os.path.expanduser('~/data'), 'brainiak_datasets')
 
 # Results path: Where the results and intermediate analyses of the tutorials are stored.
 # Change this path only if you wish to save your outputs to a different folder.
